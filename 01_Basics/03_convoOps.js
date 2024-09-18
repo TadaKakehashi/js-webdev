@@ -23,3 +23,7 @@ let str1 = "tada"
 let str2 = " kakehashi"
 console.log(str1 + str2);
 
+let str3 = "tada"
+let str4 ="destroyer"
+console.log(str3+str4);
+
