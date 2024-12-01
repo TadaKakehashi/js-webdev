@@ -1,7 +1,7 @@
 "use strick" //treat all JS code as newer version
 
 let name = "aryan";
-// alert("Hello") we are using NodeJs and Not browser engine
+// alert("Hello") //we are using NodeJs and Not browser engine
 
 //primitive 
 //number => 2 to power 53
@@ -13,5 +13,3 @@ let name = "aryan";
 //symbol = to get uniqueness for an individual component 
 
 //object
-
-console.log(typeof undefined)
