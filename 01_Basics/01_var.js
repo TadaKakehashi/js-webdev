@@ -1,7 +1,5 @@
-const accountID = 10;
-let accountName = "Tada";
-var accountEmail = "Tada@gmail.com";
-accountState = "Hold";
-let accountBalance;
-
-console.table([accountID, accountName, accountEmail, accountState, accountBalance]);
+const accountID = 4;
+const accountNum = 1;
+let accountName = "Aryan";
+let age = "21";
+console.table([accountNum, accountID, accountName, age]);
