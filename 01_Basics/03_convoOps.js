@@ -15,6 +15,7 @@
 
 /****************Operations*************************/
 
+//conosle.log(+true) //give u 1 
 let num = 10
 let negNum = -num
 console.log(negNum);
